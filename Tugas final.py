@@ -1,3 +1,6 @@
+#Nama : I PUTU ANDREANA WIRAWAN
+#Nim. : D0221068
+#kelas: Informatika E
 class bagun_datar ():
     def persegi():      
         print()
